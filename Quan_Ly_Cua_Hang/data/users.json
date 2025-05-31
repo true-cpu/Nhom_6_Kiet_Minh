@@ -1,0 +1,20 @@
+[
+    {
+        "name": "mai",
+        "username": "admin1",
+        "password": "admin123",
+        "email": "kiet@gmail.com",
+        "phone": "03899090",
+        "role": "manager",
+        "id": 1
+    },
+    {
+        "name": "hoa",
+        "username": "employee",
+        "password": "employ123",
+        "email": "mai@gmail.com",
+        "phone": "0123123442",
+        "role": "employee",
+        "id": 2
+    }
+]
